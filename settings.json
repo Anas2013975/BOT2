@@ -1,7 +1,7 @@
 {
-  "name": "BOT1",
+  "name": "BOT2",
   "bot-account": {
-    "username": "BOT1",
+    "username": "BOT2",
     "password": "",
     "type": "offline"
   },
@@ -30,7 +30,7 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "أهلا أنا صديق أنس",
+        "أهلا أنا بوت لمراقبه السيرفر",
         "أدخل للديسكورد الأن واربح جوائز كثيره",
         "أنا أحب أن ألعب ماينكرافت"
       ]
